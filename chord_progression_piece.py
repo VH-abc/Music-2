@@ -9,7 +9,7 @@ import time
 def create_chord_progression_piece():
     """Create and play a piece with the specified chord progression and melody"""
     
-    # Define the chord progression
+    # Define the chord progression 
     chord_progression = [
         ([0, 6, 11], 1),   
         ([0, 5, 11], 1),  
