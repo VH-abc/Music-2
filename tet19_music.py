@@ -61,7 +61,7 @@ class LegatoSequence:
 class TET19System:
     """19-tone equal temperament system for generating frequencies and playing music"""
     
-    def __init__(self, sample_rate: int = 44100, base_freq: float = 190.0, 
+    def __init__(self, sample_rate: int = 44100, base_freq: float = 220.0, 
     base_degree: int = 0):
         """
         Initialize the 19 TET system.
